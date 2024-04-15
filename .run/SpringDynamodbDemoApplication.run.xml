@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="SpringDynamodbDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <module name="spring-dynamodb-demo" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.eugenemsv.spring.dynamo.SpringDynamodbDemoApplication" />
+    <method v="2">
+      <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="clean compile" />
+    </method>
+  </configuration>
+</component>
